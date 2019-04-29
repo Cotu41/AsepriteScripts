@@ -25,7 +25,6 @@ if img.colorMode == ColorMode.RGB then
 	end
 	
 	
-	app.command.DeselectMask()
 end
 
 if img.colorMode == ColorMode.INDEXED then
@@ -38,7 +37,6 @@ if img.colorMode == ColorMode.INDEXED then
 	end
 	
 	
-	app.command.DeselectMask()
 end
 	
 
